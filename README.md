@@ -1,2 +1,0 @@
-# devopshome
-Hometask
